@@ -19,7 +19,7 @@ npm install -g typescript
 1. Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/boutchersj/fetch_sdet_challenge.git
+git clone https://github.com/Pankti-Nanavati/SDET_Fetch_CodingChallenge.git
 
 ```
 
